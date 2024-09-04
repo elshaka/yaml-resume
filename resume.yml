@@ -1,0 +1,138 @@
+resume:
+  name: Eleazar Meza
+  email: meza.eleazar@gmail.com
+  website: https://github.com/elshaka
+  summary: Software Engineer currently working for the most part with Ruby/Ruby on Rails
+  cover_letter: As a Ruby/Rails engineer, I've honed my abilities in developing robust and scalable web applications. With experience working in agile environments and collaborating with cross-functional teams, I've gained a strong understanding of the entire software development lifecycle. My past roles as a technical lead at iSeatz allowed me to leverage my technical expertise to guide projects and contribute to high-level decision-making. Additionally, my work on Agromatic, has provided me with valuable experience in building both web applications and industrial automation solutions. I am particularly interested in exploring opportunities to expand my skills in full-stack development, especially with technologies like Hotwire and/or frameworks like React or Vue. I am eager to contribute my technical abilities and problem-solving skills to a dynamic team and help drive innovative projects.
+  skills_by_categories:
+    - category: Programming languages
+      skills:
+      - Ruby
+      - Python (basics)
+      - JavaScript (basics)
+    - category: Frameworks
+      skills:
+        - Ruby on Rails
+        - ReactJS (basics)
+    - category: APIs
+      skills:
+        - RESTful APIs
+    - category: Databases
+      skills:
+        - MySQL
+        - PostgreSQL
+    - category: Version control
+      skills:
+        - Git
+    - category: DevOps
+      skills:
+      - Familiarity with Docker, AWS
+    - category: Industrial Automation
+      skills:
+        - PLC Programming
+        - HMI
+        - MODBUS
+        - AFD
+        - RS-485
+    - category: Embedded Systems
+      skills:
+        - Hardware Design
+        - Firmware Development
+  experiences:
+    - company: Independent
+      title: Software Engineering Consultant
+      start_date: 2022-09-01
+      end_date: 2023-06-01
+      description: Led a project to migrate large-scale content listings for software libraries from legacy systems to a modern, RESTful API-based platform. Developed a user-friendly, self-contained migration tool using Ruby/Rails, PostgreSQL, and Docker. Successfully delivered a minimum viable product (MVP), streamlining the content migration process and laying the groundwork for a future App Store.
+      skills:
+        - Ruby
+        - Ruby on Rails
+        - PostgreSQL
+        - Docker
+        - RESTful APIs
+        - Data Modeling
+    - company: Independent
+      title: Software Engineering Consultant
+      start_date: 2023-03-01
+      end_date: 2023-05-01
+      description: Developed ruby web scrapers to analyze Amazon product data, providing merchants with insights into product demand and competitive landscapes. Utilized AWS technologies to integrate IoT projects with cloud infrastructure.
+      skills:
+        - Ruby
+        - Web Scraping
+        - Amazon Product Data
+        - AWS
+        - IoT
+    - company: iSeatz
+      title: Lead Developer
+      start_date: 2016-05-01
+      end_date: 2017-12-01
+      description: Led the ruby back-end development team responsible for implementing an iSeatz powered ancillary booking functionality (cars, activities, restaurant reservations) for IHG hotel stays. Collaborated with project stakeholders to define and prioritize requirements. Mentored and guided junior developers, ensuring project success.
+      skills:
+        - Ruby
+        - Ruby on Rails
+        - Ancillary Booking
+        - Tech Lead
+    - company: iSeatz
+      title: Developer
+      start_date: 2015-10-01
+      end_date: 2017-12-01
+      description: Contributed to the development of ancillary booking functionality for IHG hotel stays, focusing on API integration and interaction. Collaborated with internal teams to address API-related issues and assisted in DevOps tasks.
+      skills:
+        - Ruby
+        - Ruby on Rails
+        - API Integration
+        - DevOps
+    - company: Agromatic
+      title: Software Engineer
+      start_date: 2011-07-01
+      end_date: 2016-09-01
+      description: Developed a suite of Ruby on Rails web applications to streamline operations for various farming and food processing companies. These applications managed production orders, inventory, quality control, and generated comprehensive reports. Integrated with SCADA systems and optimized database queries for efficient data processing.
+      skills:
+        - Ruby
+        - Ruby on Rails
+        - MySQL
+        - SCADA
+        - XML
+        - JSON
+        - Python
+        - PLC
+    - company: Agromatic
+      title: Software Engineering Consultant
+      start_date: 2015-08-01
+      end_date: 2016-06-01
+      description: Provided technical mentorship and training to new developers, guiding them in understanding legacy Ruby on Rails and Python projects. Facilitated knowledge transfer of internal systems and best practices.
+      skills:
+        - Ruby
+        - Ruby on Rails
+        - Python
+        - Mentoring
+        - Knowledge Transfer
+    - company: Independent
+      title: Electronic Engineer
+      start_date: 2014-07-01
+      end_date: 2014-12-01
+      description: Designed and developed a comprehensive control system for a RGB LED colored water fountain. Integrated a FATEK PLC with a AFD for water pump control and developed custom hardware and firmware for RGB lamp and valve control.
+      skills:
+        - PLC
+        - HMI
+        - MODBUS
+        - AFD
+        - RS-485
+        - Embedded Systems
+        - Hardware Design
+        - Firmware Development
+    - company: Independent
+      title: Control Engineer
+      start_date: 2011-10-01
+      end_date: 2011-12-01
+      description: Implemented PLC control systems using Siemens STEP 7 to automate raw material reception, transfer, and storage processes. Optimized operational efficiency and ensured process consistency.
+      skills:
+        - PLC
+        - STEP 7
+        - Industrial Automation
+        - Process Control
+  education:
+    - degree: Bachelor's Degree
+      major: Electronic Engineering
+      university: UNEXPO Barquisimeto
+      year: 2010
